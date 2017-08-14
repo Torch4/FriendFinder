@@ -1,6 +1,9 @@
 # FriendFinder
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> e3ec7e9919318cb3c24890ce00c40d09312a4959
 Friend Finder - Node and Express Servers
 
 Overview
@@ -71,4 +74,8 @@ If you have any questions about this project or the material we have covered, pl
 Good Luck!
 Copyright
 
+<<<<<<< HEAD
 Coding Boot Camp (C) 2016. All Rights Reserved.
+=======
+Coding Boot Camp (C) 2016. All Rights Reserved.
+>>>>>>> e3ec7e9919318cb3c24890ce00c40d09312a4959
